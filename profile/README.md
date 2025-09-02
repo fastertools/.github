@@ -1,5 +1,5 @@
 > [!NOTE]  
-> Hey, we're new! Join us on [Discord](https://discord.gg/ByFw4eKEU7).
+> We're new! Check out [wasmcp](https://github.com/fastertools/wasmcp) and talk to us on [Discord](https://discord.gg/ByFw4eKEU7).
 
 <div align="center">
 
