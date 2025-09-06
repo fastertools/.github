@@ -3,4 +3,6 @@
 
 We enable developers to deploy high-performance, secure, and language-agnostic tools for AI agents with unprecedented ease and speed.
 
+Questions?: Reach out to support@fastertools.ai
+
 https://www.linkedin.com/company/fastertools
