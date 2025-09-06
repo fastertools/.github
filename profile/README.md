@@ -1,8 +1,6 @@
 > [!NOTE]  
 > We're new! Check out [wasmcp](https://github.com/wasmcp/wasmcp) and talk to us on [Discord](https://discord.gg/ByFw4eKEU7).
 
-<div align="center">
+We enable developers to deploy high-performance, secure, and language-agnostic tools for AI agents with unprecedented ease and speed.
 
-# `ftl`
-
-fastertools for AI agents
+https://www.linkedin.com/company/fastertools
